@@ -1,3 +1,4 @@
+<?php include 'functions.php'; ?>
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -6,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Rettungs-Corps der Stadt St. Gallen">
     <meta name="author" content="Rettungs-Corps der Stadt St. Gallen">
-
 
     <title>Rettungs-Corps der Stadt St. Gallen</title>
 
@@ -39,6 +39,7 @@
             <ul class="nav navbar-nav">
                 <li><a href="/">Neues</a></li>
                 <li><a href="/rc.php">Über den RC</a></li>
+                <li><a href="/bilder.php">Bilder</a></li>
                 <li><a href="/statuten.php">Statuten</a></li>
                 <li><a href="http://www.vereinsheim-noerdli.ch/">Nördli</a></li>
             </ul>
@@ -46,4 +47,4 @@
         <!--/.nav-collapse -->
     </div>
 </div>
-<div class="container" role="main">
+

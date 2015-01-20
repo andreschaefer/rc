@@ -1,5 +1,5 @@
 <?php include 'includes/head.php'; ?>
-
+    <div class="container" role="main">
 <h1>Statuten des Rettungs-Corps der Stadt St. Gallen</h1>
 
 
@@ -519,5 +519,5 @@
 <p></p>
 <p>Josef Eberle Urs Rohner</p>
 
-
+</div>
 <?php include 'includes/foot.php'; ?>
