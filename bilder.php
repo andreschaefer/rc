@@ -1,19 +1,18 @@
 <?php include 'includes/head.php'; ?>
-<div class="container" role="main">
-    <h1>Impressionen aus dem Rettungs-Corps</h1>
+<h1>Impressionen aus dem Rettungs-Corps</h1>
 
 
-        <p>
-            Alle Fotos findest du auf <a href="https://www.flickr.com/photos/129011464@N05/sets/"
-                                         target="_blank">flickr</a>
-        </p>
+<p>
+    Alle Fotos findest du auf <a href="https://www.flickr.com/photos/129011464@N05/sets/"
+                                 target="_blank">flickr</a>
+</p>
 
-        <div id="gallery" style="height: 800px"></div>
+<div id="gallery" style="height: 800px"></div>
 
-        <p class="pull-right">
-            Alle Fotos findest du auf <a href="https://www.flickr.com/photos/129011464@N05/sets/"
-                                         target="_blank">flickr</a>
-        </p>
+<p class="pull-right">
+    Alle Fotos findest du auf <a href="https://www.flickr.com/photos/129011464@N05/sets/"
+                                 target="_blank">flickr</a>
+</p>
 
 </div>
 <footer>

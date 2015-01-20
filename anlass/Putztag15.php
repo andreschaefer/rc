@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
-<h1>Fondue-Plausch <br/>
-    <small>21. Februar 2015</small>
+<h1>Nördli-Putztag <br/>
+    <small>Samstag 21. März von 09:00 bis 17:00 Uhr</small>
 </h1>
 <div class="row">
     <div class="col-md-8 info">

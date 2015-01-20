@@ -1,4 +1,4 @@
-
+</div>
 <footer>
 	<div class="container">
 		<p class="center-block text-muted" >&copy; Rettungs-Corps der Stadt St. Gallen 2014</p>
