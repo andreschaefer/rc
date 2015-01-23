@@ -1,0 +1,40 @@
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin-bottom: 60px;
+}
+footer {
+    background-color: #f5f5f5;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+body > .container {
+    padding: 60px 15px 0;
+}
+body > .container-full {
+    padding: 60px 15px 0;
+    width: auto;
+}
+.container .text-muted {
+    margin: 20px 0;
+}
+footer > .container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+code {
+    font-size: 80%;
+}
+iframe {
+	width:100%;
+	border: 0; 
+}
+.info iframe    {
+	height:900px;
+}
+.anmeldung iframe  {
+	height:1500px;
+}

@@ -13,5 +13,8 @@
             document.write(frame);
         </script>
     </div>
+    <div class="col-md-8 anmeldung">
+        <iframe src="https://docs.google.com/forms/d/1Ubqhm5hIaC0e5VPFDX8MRj3d8Dxu1YXZaIN6huvJB30/viewform?embedded=true" >Anmeldung wird geladen...</iframe>
+    </div>
 </div>
 <?php include '../includes/foot.php'; ?>

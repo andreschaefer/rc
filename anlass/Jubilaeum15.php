@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
-<h1>Nördli-Putztag <br/>
-    <small>Samstag 21. März von 09:00 bis 17:00 Uhr</small>
+<h1>Jubiläumsfeier 35 Jahre Nördli<br/>
+    <small>02. Mai 2015</small>
 </h1>
 <div class="row">
     <div class="col-md-8 info">
@@ -14,7 +14,9 @@
         </script>
     </div>
     <div class="col-md-8 anmeldung">
-        <iframe src="https://docs.google.com/forms/d/1CtVMfLbMwW1YPnDr-7gGtZpEEuc6Vt-Yk07PH6Hf76E/viewform?embedded=true" >Anmeldung wird geladen...</iframe>
+        <iframe src="https://docs.google.com/forms/d/1DqyEQ4hg3xo5_j50gZXLMhl1I_qAN70HGFYzYY7blkg/viewform?embedded=true">
+            Anmeldung Wird geladen...
+        </iframe>
     </div>
 </div>
 <?php include '../includes/foot.php'; ?>
