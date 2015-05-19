@@ -38,7 +38,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="/">Neues</a></li>
-                <li><a href="/rc.php">Über den RC</a></li>
+                <li><a href="/info/programm.php">Tätigkeitsprogramm</a></li>
                 <li><a href="/bilder.php">Bilder</a></li>
                 <li><a href="/statuten.php">Statuten</a></li>
                 <li><a href="http://www.vereinsheim-noerdli.ch/">Nördli</a></li>
