@@ -33,7 +33,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><a class="navbar-brand" href="/">Rettungs-Corps der Stadt St. Gallen</a></a>
+            <a class="navbar-brand hidden-xs hidden-sm" href="/">Rettungs-Corps der Stadt St. Gallen</a>
+            <a class="navbar-brand hidden-xs hidden-md hidden-lg" href="/">Rettungs-Corps St. Gallen</a>
+            <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="/">RC St. Gallen</a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
