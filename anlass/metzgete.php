@@ -1,7 +1,7 @@
 <?php include '../includes/head.php'; ?>
 <h1>
 	Nördli Metzgete 
-	<br/> <small>24/25. Oktober 2014</small> 
+	<br/> <small>23/24. Oktober 2015</small>
 </h1>
 <div class="row">
 	<div class="col-md-8 info">
