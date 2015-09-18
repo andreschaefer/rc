@@ -5,10 +5,14 @@
 </h1>
 <div class="row">
 	<div class="col-md-8 info">
-		<iframe src="https://docs.google.com/viewer?srcid=0B_7jH8Z3n9YOc2hNR3ZqSmJURjNxWnNBUVZSY0ZIeW1JYXRZ&pid=explorer&embedded=true"></iframe>
+		<script type="application/javascript">
+
+			var format = ".pdf";
+
+			var target = (''+window.location).substr(0, (''+window.location).lastIndexOf(".")) + format;
+			var frame = '<iframe src="http://docs.google.com/viewer?url=' + target + '&embedded=true" style="width:100%; height:1060px;" frameborder="0"></iframe>';
+			document.write(frame);
+		</script>
 	</div>
-	<div class="col-md-8 anmeldung">
-		<iframe src="https://docs.google.com/forms/d/196cBWiltVELJbwN0slejCy93Nnuh1jEOkj59a3qI2N4/viewform?embedded=true"  ></iframe>
-	</div>	
 </div>
 <?php include '../includes/foot.php'; ?>

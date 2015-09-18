@@ -1,11 +1,18 @@
 <?php include '../includes/head.php'; ?>
 <h1>
 	RC Chlaus
-	<br/> <small>6. Dezember 2014</small> 
+	<br/> <small>5. Dezember 2015</small>
 </h1>
 <div class="row">
 	<div class="col-md-8 info">
-		<iframe src="https://drive.google.com/file/d/0B_7jH8Z3n9YOcXFDczRnMV96U0xwdmcwc2I1b2xybW9JUmVB/view?embedded=true"></iframe>
+		<script type="application/javascript">
+
+			var format = ".pdf";
+
+			var target = (''+window.location).substr(0, (''+window.location).lastIndexOf(".")) + format;
+			var frame = '<iframe src="http://docs.google.com/viewer?url=' + target + '&embedded=true" style="width:100%; height:1060px;" frameborder="0"></iframe>';
+			document.write(frame);
+		</script>
 	</div>
 </div>
 <?php include '../includes/foot.php'; ?>

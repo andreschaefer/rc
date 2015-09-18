@@ -14,22 +14,6 @@
     <div class="visible-xs">
         <h1><img src="/images/rc-logo-50.gif"/> RC St. Gallen</h1>
     </div>
-<!-- FIXME remove hard coded teaser!-->
-    <div class="row">
-        <div class="col-md-8">
-            <img class="img-responsive" src="images/2015-09-12-degersheimer.jpg" />
-        </div>
-        <div class="col-md-4">
-            <h2>Degersheihmer Feuerwehrmarsch <br/>
-                <small>Samstag, 12. September 2015</small>
-            </h2>
-            <p>Viele liebe Grüsse aus Degersheim!</p>
-            <p>
-                Bei schönstem Wetter startet die RC-Delegation am Degersheimer Feuerwehrmarsch.
-            </p>
-            <p>Sei nächstes Jahr auch dabei an einem immer wieder schönen Anlass!</p>
-        </div>
-    </div>
 <?php
 $files = get_files('teaser', '.html');
 $count = 0;
