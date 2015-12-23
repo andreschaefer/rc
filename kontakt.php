@@ -16,7 +16,7 @@ function hide_email($email)
 }
 
 ?>
-<h1>Kontakt</h1>
+<h1>Kommission und Verantwortlichkeiten</h1>
 
 <table class="table table-hover ">
     <thead>
