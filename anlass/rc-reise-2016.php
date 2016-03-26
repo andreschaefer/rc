@@ -5,29 +5,29 @@
 
 <div class="row">
     <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-1.png" />
+        <img class="img-responsive" src="/images/ausflug-1.png" />
     </div>
     <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-2.png" />
+        <img class="img-responsive" src="/images/ausflug-2.png" />
     </div>
     <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-3.png" />
-    </div>
-</div>
-<div class="row">
-    <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-4.png" />
-    </div>
-    <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-5.png" />
-    </div>
-    <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-6.png" />
+        <img class="img-responsive" src="/images/ausflug-3.png" />
     </div>
 </div>
 <div class="row">
     <div class="col-md-4">
-        <img class="img-responsive" src="images/ausflug-7.png" />
+        <img class="img-responsive" src="/images/ausflug-4.png" />
+    </div>
+    <div class="col-md-4">
+        <img class="img-responsive" src="/images/ausflug-5.png" />
+    </div>
+    <div class="col-md-4">
+        <img class="img-responsive" src="/images/ausflug-6.png" />
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <img class="img-responsive" src="/images/ausflug-7.png" />
     </div>
 </div>
 
