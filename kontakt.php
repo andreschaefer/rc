@@ -66,7 +66,7 @@ function hide_email($email)
         <td><?php echo hide_email('noerdli@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Jeremias Roth</td>
+        <td>Michael Kobler</td>
         <td>Nördli Kassier</td>
         <td></td>
     </tr>
