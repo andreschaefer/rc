@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
 <h1>Fondue-Plausch <br/>
-    <small>21. Februar 2015</small>
+    <small>10. und 11. Februar 2017</small>
 </h1>
 <div class="row">
     <div class="col-md-8 info">
