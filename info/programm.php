@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
 <h1>Tätigkeitsprogramm des RC<br/>
-    <small>2016</small>
+    <small>2017</small>
 </h1>
 <div class="row">
     <div class="col-md-8 info">
