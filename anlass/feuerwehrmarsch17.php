@@ -13,8 +13,8 @@
             document.write(frame);
         </script>
     </div>
-<!--    <div class="col-md-8 anmeldung">-->
-<!--        <iframe src="https://docs.google.com/forms/d/1CtVMfLbMwW1YPnDr-7gGtZpEEuc6Vt-Yk07PH6Hf76E/viewform?embedded=true" >Anmeldung wird geladen...</iframe>-->
-<!--    </div>-->
+    <div class="col-md-8 anmeldung">
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrgZXPUNOeSHM8ZkSCKbZTt3rMvarXJdOBx2unZDPbjKF6Bg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+    </div>
 </div>
 <?php include '../includes/foot.php'; ?>
