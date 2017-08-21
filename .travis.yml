@@ -1,0 +1,6 @@
+os:
+  - linux
+install:
+  - sudo apt-get install -y git-ftp
+script:
+  - git ftp push --user xxx --passwd xxx ftp://rettungscorps.ch/rc
