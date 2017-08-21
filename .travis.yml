@@ -3,7 +3,7 @@ os:
 install:
   - sudo apt-get install -y git-ftp
 script:
-  - git ftp push --user xxx --passwd xxx ftp://rettungscorps.ch/rc
+  - git ftp push --user $FTP_USER --passwd $FTP_PASSWORD ftp://rettungscorps.ch/rc
 branches:
   only:
     - master
