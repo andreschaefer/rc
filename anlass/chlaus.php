@@ -1,7 +1,7 @@
 <?php include '../includes/head.php'; ?>
 <h1>
 	RC Chlaus
-	<br/> <small>10. Dezember 2016</small>
+	<br/> <small>09. Dezember 2017</small>
 </h1>
 <div class="row">
 	<div class="col-md-8 info">
