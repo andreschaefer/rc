@@ -46,8 +46,8 @@ function hide_email($email)
         <td></td>
     </tr>
     <tr>
-        <td>Petra Peyer</td>
-        <td>Kassiererin Corps-Kasse</td>
+        <td>Julian Härter</td>
+        <td>Kassier Corps-Kasse</td>
         <td></td>
     </tr>
     <tr>
