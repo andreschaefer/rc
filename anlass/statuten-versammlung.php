@@ -4,7 +4,7 @@
 </h1>
 <div class="row">
 	<div class="col-md-8 info">
-		<img src="statuten-versammlung.png">
+		<img src="statuten-versammlung.png" width="100%">
 	</div>
 </div>
 <?php include '../includes/foot.php'; ?>
