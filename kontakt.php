@@ -87,7 +87,7 @@ function hide_email($email)
     </tr>
     <tr>
         <td>Daniel Häflinger</td>
-        <td>Fähnrich BF, Versandt</td>
+        <td>Fähnrich BF, Versand</td>
         <td></td>
     </tr>
     <tr>
