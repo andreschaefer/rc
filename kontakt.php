@@ -51,7 +51,7 @@ function hide_email($email)
         <td></td>
     </tr>
     <tr>
-        <td>Alejandro Cerdan</td>
+        <td>André Schäfer</td>
         <td>Schriftführer</td>
         <td></td>
     </tr>
@@ -61,7 +61,7 @@ function hide_email($email)
     </tr>
 
     <tr>
-        <td>Oskar Seger</td>
+        <td>Ruth Süess</td>
         <td>Nördli Hüttenchef</td>
         <td><?php echo hide_email('noerdli@rettungscorps.ch'); ?></td>
     </tr>
@@ -87,12 +87,7 @@ function hide_email($email)
     </tr>
     <tr>
         <td>Daniel Häflinger</td>
-        <td>Fähnrich BF</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Stefan Keller</td>
-        <td>Versand</td>
+        <td>Fähnrich BF, Versandt</td>
         <td></td>
     </tr>
     <tr>
