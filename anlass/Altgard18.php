@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
 <h1>Altgardistentreffen<br/>
-    <small>Samstag 10. Juni 2017</small>
+    <small>Samstag 2. Juni 2018</small>
 </h1>
 <div class="row">
     <div class="col-md-8 info">
