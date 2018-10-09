@@ -8,8 +8,7 @@ script:
   - git config git-ftp.url "ftp://rettungscorps.ch/rc"
   - git config git-ftp.user $FTP_USER
   - git config git-ftp.password $FTP_PASSWORD
-  - git ftp catchup -vv
-  - git ftp push -vv
+  - git ftp push -vv --auto-init
 branches:
   only:
     - master
