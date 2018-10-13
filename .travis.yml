@@ -8,7 +8,7 @@ script:
   - git config git-ftp.url "ftpes://rettungscorps.ch/rc"
   - git config git-ftp.user $FTP_USER
   - git config git-ftp.password $FTP_PASSWORD
-  - git-ftp push -vv || git-ftp init -vv && git-ftp push -vv
+  - git-ftp push -vv --insecure || git-ftp init -vv --insecure && git-ftp push -vv --insecure
 branches:
   only:
     - master
