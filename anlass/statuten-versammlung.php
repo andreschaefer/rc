@@ -21,10 +21,12 @@
 	<p>
 		Es stehen folgende Dokumente zur Diskussion.
 	</p>
-	<a href="RC_Statutenrevision_Statuten neu alt.docx">Statuten Gegenüberstellung Alt und Neu </a>
-	<a href="Anlagereglement_final.docx">Anlagereglement</a>
-	<a href="Reglement Vereinskasse_final.docx">Reglement für die Vereinskasse</a>
-	<a href="Vereinsheim Noerdli_final.docx">Reglement über das Vereinsheim Nördli</a>
+	<ul>
+		<li><a href="RC_Statutenrevision_Statuten neu alt.docx">Statuten Gegenüberstellung Alt und Neu </a></li>
+		<li><a href="Anlagereglement_final.docx">Anlagereglement</a></li>
+		<li><a href="Reglement Vereinskasse_final.docx">Reglement für die Vereinskasse</a></li>
+		<li><a href="Vereinsheim Noerdli_final.docx">Reglement über das Vereinsheim Nördli</a></li>
+	</ul>
 
 
 </div>
