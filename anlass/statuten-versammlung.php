@@ -1,16 +1,7 @@
 <?php include '../includes/head.php'; ?>
-<div class="row">
-	<h1>Ausserordentliche Mitgliedervesammlung - Statuten<br>
-		<small>Montag 22. Oktober 2018</small>
-	</h1>
-	<p>
-		Liebe RC-Mitglieder
-	</p>
-	<p>
-		Die an der HV angekündigte und verschobene ausserordentliche Versammlung zur Vorstellung der neuen Statuten
-		findet am Montag, den 22. Oktober 2018 um 19:30 Uhr im Depot61 (Burgstrasse 61) statt.
-	</p>
-</div>
+<h1>Ausserordentliche Mitgliedervesammlung - Statuten<br>
+	<small>Montag 22. Oktober 2018</small>
+</h1>
 <div class="row">
 	<div class="col-md-8 info">
 		<img src="statuten-versammlung.png" width="100%">
