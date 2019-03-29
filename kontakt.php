@@ -41,7 +41,7 @@ function hide_email($email)
         <td><?php echo hide_email('adressen@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Sigi Schmuckli</td>
+        <td>Julian Härter</td>
         <td>UK-Verwalter</td>
         <td></td>
     </tr>
