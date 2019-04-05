@@ -1,6 +1,6 @@
 <?php include '../includes/head.php'; ?>
 <h2>Nördli-Putztag <br/>
-    <small>Samstag 11. August 2018</small>
+    <small>Samstag 13. Juli 2019</small>
 </h2>
 <div class="row">
     <div class="col-md-8 info">
