@@ -19,7 +19,9 @@ jobs:
             git config git-ftp.url ${FTP_URL}
             git config git-ftp.user ${FTP_USER}
             git config git-ftp.password ${FTP_PASSWORD}
-            git-ftp push -vv || git-ftp init -vv && git-ftp push -vv
+            git-ftp push -vv --force --insecure || \
+            git-ftp init -vv --force --insecure && \
+            git-ftp push -vv --force --insecure
 
 workflows:
   version: 2
