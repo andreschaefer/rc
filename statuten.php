@@ -1,10 +1,10 @@
 <?php include 'includes/head.php'; ?>
 	<h1>Revision der Statuten</h1>
 	<ul>
-		<li><a href="/statuten/RC_Statutenrevision_Statuten neu alt Präsentation.docx">RC Statutent Neu / Alt</a></li>
+		<li><a href="/statuten/RC_Statutenrevision_Statuten_alt_neu.docx">RC Statutent Neu / Alt</a></li>
 		<li><a href="/statuten/Reglement Vereinskasse_final.docx">Reglement Vereinskasse Neu</a></li>
 		<li><a href="/statuten/Anlagereglement_final.docx">Anlagereglement Neu</a></li>
-		<li><a href="/statuten/Vereinsheim Noerdli_final.docx">Vereinsheim Nördli Neu</a></li>
+		<li><a href="/statuten/Vereinsheim_Noerdli_final.docx">Vereinsheim Nördli Neu</a></li>
 	</ul>
 
 	<h1>Statuten des Rettungs-Corps der Stadt St. Gallen</h1>
