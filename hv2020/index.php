@@ -76,9 +76,8 @@
 	</ul>
 
 	<h3>14. Vereinsheim Nördli</h3>
-	<!-- TODO --><strong style="color:red">TODO</strong>
 	<ul>
-		<li><a href="traktandum14/TODO.pdf">Antrag Erneuerung Küche im Nördli</a></li>
+		<li><a href="traktandum14/RC_Antrag_KuechenersatzNoerdli.pdf">Ersatz der Küche des Vereinsheims Nördli</a></li>
 	</ul>
 
 </main>
