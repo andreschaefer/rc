@@ -32,18 +32,16 @@
 	</ul>
 
 	<h3>4. Jahresbericht des Obmannes</h3>
-	<!-- TODO --><strong style="color:red">TODO</strong>
 	<ul>
-
-		<li><a href="traktandum04/TODO.pdf">Jahresbericht des Obmannes 2019</a></li>
+		<li><a href="traktandum04/2020_Jahresbericht_2019.docx">Jahresbericht des Obmann 2018</a></li>
 	</ul>
 
 	<h3>5. Rechnungsablagen</h3>
-	<!-- TODO --><strong style="color:red">TODO</strong>
 	<ul>
-		<li><a href="traktandum05/UK.pdf">Unterstützungskasse</a></li>
-		<li><a href="traktandum05/CK.pdf">Corpskasse</a></li>
-		<li><a href="traktandum05/HK.pdf">Hüttenkasse Nördli</a></li>
+		<li><a href="traktandum05/2019_UK.pdf">Unterstützungskasse</a></li>
+		<li><a href="traktandum05/2019_Corpskasse.pdf">Corpskasse</a></li>
+		<li><a href="traktandum05/2019_Noerdli.pdf">Hüttenkasse Nördli</a></li>
+		<li><a href="traktandum05/2020_Bericht_Kassen.pdf">Bericht Kassen</a></li>
 	</ul>
 
 
