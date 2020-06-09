@@ -46,9 +46,8 @@
 
 
 	<h3>6. Bericht der Geschäftsprüfungskommission</h3>
-	<!-- TODO --><strong style="color:red">TODO</strong>
 	<ul>
-		<li><a href="traktandum06/TODO.pdf">Bericht der GKP</a></li>
+		<li><a href="traktandum06/2019_Revisorenbericht.pdf">Bericht der GKP</a></li>
 	</ul>
 
 	<h3>7. Statutenänderung</h3>
