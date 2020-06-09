@@ -33,7 +33,7 @@
 
 	<h3>4. Jahresbericht des Obmannes</h3>
 	<ul>
-		<li><a href="traktandum04/2020_Jahresbericht_2019.docx">Jahresbericht des Obmann 2018</a></li>
+		<li><a href="traktandum04/2020_Jahresbericht_2019.pdf">Jahresbericht des Obmann 2018</a></li>
 	</ul>
 
 	<h3>5. Rechnungsablagen</h3>
