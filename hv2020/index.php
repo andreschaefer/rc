@@ -11,7 +11,7 @@
 				Wir danken allen Mitgliedern, die trotz der Umstände zahlreich ihre Stimmen abgegeben haben.
 			</p>
 			<p>
-				Insbesondere möchte sich der neu gewählte Vorstand bei der GPK bedanken, welche diese Form der Haputversammlung als neutrale Stimmauszähler ers ernöglicht haben.
+				Insbesondere möchte sich der neu gewählte Vorstand bei der GPK bedanken, welche diese Form der Hauptversammlung als neutrale Stimmenzähler erst ermöglicht haben.
 			</p>
 			<p>
 				Anbei das <li><a href="protokoll-hv2020.pdf">Protokoll schriftlichen HV 2020</a></li>
