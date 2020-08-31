@@ -40,10 +40,10 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="/">Neues</a></li>
-                <li><a href="/info/programm.php">Programm</a></li>
+<!--                <li><a href="/info/programm.php">Programm</a></li>-->
                 <li><a href="/bilder.php">Bilder</a></li>
                 <li><a href="/kontakt.php">Kontakt</a></li>
-                <li><a href="/statuten.php">Statuten</a></li>
+<!--                <li><a href="/statuten.php">Statuten</a></li>-->
                 <li><a href="http://www.vereinsheim-noerdli.ch/">Nördli</a></li>
             </ul>
         </div>

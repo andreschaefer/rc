@@ -16,7 +16,7 @@ function hide_email($email)
 }
 
 ?>
-<h1>Kommission und Verantwortlichkeiten</h1>
+<h1>Vorstand und Verantwortlichkeiten</h1>
 
 <table class="table table-hover ">
     <thead>
@@ -28,51 +28,33 @@ function hide_email($email)
     </thead>
     <tbody>
     <tr>
-        <th colspan="3">Ausschuss</th>
-    </tr>
-    <tr>
         <td>Alice Gimmi</td>
         <td>Obmann</td>
         <td><?php echo hide_email('obmann@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Ewald Keckeis</td>
-        <td>Obmann-Stellvertreter / Mitglieder-Daten</td>
+        <td>André Schäfer</td>
+        <td>Obmann-Stellvertreter / Schriftführer / Internet Kommunikation / Homepage</td>
+		<td><?php echo hide_email('internet@rettungscorps.ch'); ?></td>
+    </tr>
+    <tr>
+        <td>Julian Härter</td>
+        <td>Kassier Vereinskasse</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Dorothea Keckeis</td>
+        <td>Mitgliederdaten</td>
         <td><?php echo hide_email('adressen@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Julian Härter</td>
-        <td>UK-Verwalter</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Julian Härter</td>
-        <td>Kassier Corps-Kasse</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>André Schäfer</td>
-        <td>Schriftführer</td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <th colspan="3">Kommision</th>
-    </tr>
-
-    <tr>
-        <td>Ruth Süess</td>
-        <td>Nördli Hüttenchef</td>
+        <td>Martin Breitenmoser</td>
+        <td>Nördlichef / Nördli-Bauchef</td>
         <td><?php echo hide_email('noerdli@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Michael Kobler</td>
-        <td>Nördli Kassier</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Peter Waldburger</td>
-        <td>Nördli Bauchef</td>
+        <td>Simon Boos</td>
+        <td>Nördlikassier</td>
         <td></td>
     </tr>
     <tr>
@@ -91,11 +73,10 @@ function hide_email($email)
         <td></td>
     </tr>
     <tr>
-        <td>André Schäfer</td>
-        <td>Internet Kommunikation / Homepage</td>
-        <td><?php echo hide_email('internet@rettungscorps.ch'); ?></td>
+        <td>Peter Waldburger</td>
+        <td></td>
+        <td></td>
     </tr>
-
     </tbody>
 </table>
 <?php include 'includes/foot.php'; ?>
