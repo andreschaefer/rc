@@ -28,17 +28,17 @@ function hide_email($email)
     </thead>
     <tbody>
     <tr>
-        <td>Alice Gimmi</td>
+        <td>André Schäfer</td>
         <td>Obmann</td>
         <td><?php echo hide_email('obmann@rettungscorps.ch'); ?></td>
     </tr>
+<!--    <tr>-->
+<!--        <td>André Schäfer</td>-->
+<!--        <td>Schriftführer / Internet Kommunikation / Homepage</td>-->
+<!--		<td>--><?php //echo hide_email('internet@rettungscorps.ch'); ?><!--</td>-->
+<!--    </tr>-->
     <tr>
-        <td>André Schäfer</td>
-        <td>Obmann-Stellvertreter / Schriftführer / Internet Kommunikation / Homepage</td>
-		<td><?php echo hide_email('internet@rettungscorps.ch'); ?></td>
-    </tr>
-    <tr>
-        <td>Julian Härter</td>
+        <td>Rolf Bill</td>
         <td>Kassier Vereinskasse</td>
         <td></td>
     </tr>
