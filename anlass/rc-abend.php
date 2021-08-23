@@ -5,7 +5,7 @@
 
 <div class="row">
 	<div class="col-md-8">
-		<strong>Liebe RC Mitglieder</strong>
+		<h4>Liebe RC Mitglieder</h4>
 		<p>
 			Wir blicken auf schwierige Zeiten zurück und sehen langsam das Licht am Ende des Tunnels.
 			Auch im RC mussten wir in dieser Zeit auf viele traditionelle Anlässe verzichten.
