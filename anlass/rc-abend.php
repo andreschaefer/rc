@@ -1,11 +1,11 @@
 <?php include '../includes/head.php'; ?>
 <h1>Kameradschaftlicher Abend<br/>
-	<small>Freitag, 1. Oktober 2021</small>
+	<small>Freitag, 1. Oktober 2021 19:00 Uhr</small>
 </h1>
 
 <div class="row">
 	<div class="col-md-8">
-		Liebe RC Mitglieder
+		<strong>Liebe RC Mitglieder</strong>
 		<p>
 			Wir blicken auf schwierige Zeiten zurück und sehen langsam das Licht am Ende des Tunnels.
 			Auch im RC mussten wir in dieser Zeit auf viele traditionelle Anlässe verzichten.
@@ -22,26 +22,26 @@
 		</p>
 
 		<dl>
-			<dd>Wann</dd>
-			<dt>1. Oktober 2021 ab 19:00 Uhr</dt>
-			<dd>Wo</dd>
-			<dt>Feuerwehrmuseum Depot61</dt>
+			<dt>Wann</dt>
+			<dd>1. Oktober 2021 ab 19:00 Uhr</dd>
+			<dt>Wo</dt>
+			<dd>Feuerwehrmuseum Depot61</dd>
 		</dl>
 
-		<h3>Anmeldungen</h3>
+		<h4>Anmeldungen</h4>
 
 		<p>
 			Damit wir den Abend planen können, bitten wir euch um eure Anmeldung bis zum 26. September 2021.
 		</p>
 		<dl>
-			<dd>Online</dd>
-			<dt>https://forms.gle/izXMBWN1VFCuWshL8</dt>
+			<dt>Online</dt>
+			<dd><a href="https://forms.gle/izXMBWN1VFCuWshL8">https://forms.gle/izXMBWN1VFCuWshL8</a></dd>
 		</dl>
 		<p>
 			Wir freuen uns auf einen gemütlichen Abend mit euch!
 		</p>
 		<p>
-			Euer RC Vorstand
+			<strong>Euer RC Vorstand</strong>
 		</p>
 	</div>
 </div>
