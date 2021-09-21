@@ -20,12 +20,18 @@
 			einzutragen. Nicht zu letzt möchten wir mit euch bei einem feinen Essen die Kameradschaft pfelgen, die in
 			letzer Zeit zu kurz gekommen ist.
 		</p>
+		<p>
+			Aufgrund der Massnahmen des BAG muss diesen Abend unter Einhaltung der 3G-Regel statt finden.
+			Bitte schaut, dass ihr das Zertifikat bei euch habt bzw. eines der 3Gs erfüllt.
+		</p>
 
 		<dl>
 			<dt>Wann</dt>
 			<dd>1. Oktober 2021 ab 19:00 Uhr</dd>
 			<dt>Wo</dt>
 			<dd>Feuerwehrmuseum Depot61</dd>
+			<dt>3G</dt>
+			<dd>Getestet, Geimpft, Genesen</dd>
 		</dl>
 
 		<h4>Anmeldungen</h4>
