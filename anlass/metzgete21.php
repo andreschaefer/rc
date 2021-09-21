@@ -23,14 +23,15 @@
 			</strong>
 		</p>
 		<p>
-			Die <q>Nördlimannschaft</q> bewirtet Euch gerne am Freitag, den 22.10.2021 und am Samstag, den 23.10.2021.
-		</p>
-		<p>
-			Wir freuen uns über Eure Anmeldungen bis am 17. Oktober 2021.
+			Die diesjährige Metzgete findet am Fr. 22.10. - Sa. 23.10.2021 im Nördli unter den aktuell geltenden 3G sowie der Zertifikatregeln des BAG statt.
+			Anmeldeschluss ist der Do. 30.9.2021.
+
+			Bei zuwenig Anmeldungen behält sich die Hüttencrew eine Absage der Metzgete vor.
 		</p>
 		<ul>
-			<li>E-Mail: noerdli@gmx.ch</li>
+			<li>E-Mail: Huettenchef@vereinsheim-noerdli.ch</li>
 			<li>Telefon: 078 710 30 71</li>
+			<lI>Internet: <a href="https://www.vereinsheim-noerdli.ch/">Nördli-Homepage</a> </lI>
 		</ul>
 		<p>
 			Im Nördli bestehen auch genügend Übernachtungsmöglichkeiten!
