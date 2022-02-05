@@ -32,20 +32,20 @@ function hide_email($email)
         <td>Obmann</td>
         <td><?php echo hide_email('obmann@rettungscorps.ch'); ?></td>
     </tr>
-<!--    <tr>-->
-<!--        <td>André Schäfer</td>-->
-<!--        <td>Schriftführer / Internet Kommunikation / Homepage</td>-->
-<!--		<td>--><?php //echo hide_email('internet@rettungscorps.ch'); ?><!--</td>-->
-<!--    </tr>-->
+    <tr>
+        <td>Dorothea Keckeis</td>
+        <td>Mitgliederdaten / Stv. Obmann</td>
+        <td><?php echo hide_email('adressen@rettungscorps.ch'); ?></td>
+    </tr>
     <tr>
         <td>Rolf Bill</td>
         <td>Kassier Vereinskasse</td>
-        <td></td>
+		<td><?php echo hide_email('finanzen@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Dorothea Keckeis</td>
-        <td>Mitgliederdaten</td>
-        <td><?php echo hide_email('adressen@rettungscorps.ch'); ?></td>
+        <td>Anja Gerschwiler</td>
+        <td>Schriftführer </td>
+<!--		<td>--><?php //echo hide_email('internet@rettungscorps.ch'); ?><!--</td>-->
     </tr>
     <tr>
         <td>Martin Breitenmoser</td>
@@ -54,7 +54,7 @@ function hide_email($email)
     </tr>
     <tr>
         <td>Simon Boos</td>
-        <td>Nördlikassier</td>
+        <td>Kassier Nördlikasse</td>
         <td></td>
     </tr>
     <tr>
