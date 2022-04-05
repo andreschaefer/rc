@@ -1,4 +1,4 @@
-<?php include '../../includes/head.php'; ?>
+<?php include '../../includes/head-no-index.php'; ?>
 <main class="hv2020">
 	<h1>Ordentliche Hauptversammlung 2022<br>
 		<h2>Unterlagen</h2>
