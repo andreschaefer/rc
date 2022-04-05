@@ -14,5 +14,10 @@
 			</li>
 			<li><a href="programm2022.docx">Programm 2022</a></li>
 		</ul>
+
+		<h2>Anmeldung</h2>
+
+		<a href="https://forms.gle/Wz4b3aGxk6H7fs4K6">Direkt Online</a>
+
 </main>
 <?php include '../includes/foot.php'; ?>
