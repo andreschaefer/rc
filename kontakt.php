@@ -63,7 +63,7 @@ function hide_email($email)
         <td><?php echo hide_email('altgardistenbetreuer@rettungscorps.ch'); ?></td>
     </tr>
     <tr>
-        <td>Peter Strunz</td>
+        <td>Thomas Grisi</td>
         <td>Anlässe</td>
         <td><?php echo hide_email('anlass@rettungscorps.ch'); ?></td>
     </tr>

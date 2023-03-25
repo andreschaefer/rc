@@ -5,6 +5,7 @@
 		<ul>
 			<li><a href="2023_HV_Einladung.pdf">Einladung zur HV 2023</a></li>
 			<li><a href="2022_HV_Protokoll.pdf">Protokoll der HV 2022</a></li>
+			<li><a href="2022_RC_Jahresrechnung_final.pdf.pdf">Jahresrechnung 2022</a></li>
 			<li><a href="GPK_Bericht.pdf">Bericht der GPK</a></li>
 			<li><a href="programm2023.docx">Programm 2023</a></li>
 		</ul>
